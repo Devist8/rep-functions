@@ -1,0 +1,8 @@
+{
+  "firebase": {
+    "projectId": "reps-699b0",
+    "databaseURL": "https://reps-699b0.firebaseio.com",
+    "storageBucket": "reps-699b0.appspot.com",
+    "locationId": "us-east1"
+  }
+}
